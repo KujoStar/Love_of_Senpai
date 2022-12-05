@@ -1,2 +1,2 @@
-# Love_of_Senpai
-Help you create 'Love of Senpai' pictures
+# 池沼图片生成器（迫真）
+为你生成先辈对朋友的爱！让生活充满不可忘却的味道！
